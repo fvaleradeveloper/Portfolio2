@@ -1,2 +1,3 @@
 # Portfolio2
-Portfolio2 HTML, CSS, Javascript, Bootstrap: Carousel, Cards, Paralax and more.
+Portfolio2 HTML, CSS, Javascript, Bootstrap: Carousel, Cards, Parallax and more.
+
